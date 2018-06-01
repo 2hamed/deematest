@@ -1,0 +1,1 @@
+include ':app', ':ad-container-release'
