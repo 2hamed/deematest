@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.hmomeni.deematest"
+        applicationId "ir.starsapp.stars"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
